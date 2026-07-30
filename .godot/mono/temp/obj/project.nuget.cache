@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFrGqoBkZBg=",
+  "success": true,
+  "projectFilePath": "/Users/maca5/codes/unreal-unity-poc/rust-unity-unreal-poc/godot/RustGodotRenderer.csproj",
+  "expectedPackageFiles": [
+    "/Users/maca5/.nuget/packages/godot.sourcegenerators/4.6.3/godot.sourcegenerators.4.6.3.nupkg.sha512",
+    "/Users/maca5/.nuget/packages/godotsharp/4.6.3/godotsharp.4.6.3.nupkg.sha512",
+    "/Users/maca5/.nuget/packages/godotsharpeditor/4.6.3/godotsharpeditor.4.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
